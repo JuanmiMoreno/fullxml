@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="libros.xsl"?>
 <?xml-stylesheet type="text/css"  href="libros.css"?>
-<bookstore  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///D:/xampp/htdocs/1DAM2021/Lenguaje-de-marca/TODO_XML/ejercicio_xml/book.xsd">
+<bookstore   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/Users/34622/Desktop/CURSO21-22%20CENEC/Lenguaje%20de%20marcas/fullxml/libros.xsd">
   <book category="COOKING">
       <title lang="en">Everyday Italian</title>
       <author>Giada De Laurentiis</author>
